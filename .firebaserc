@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ambulancekaro",
+    "staging": "ambulance-boking-app"
+  },
+  "targets": {},
+  "etags": {}
+}
